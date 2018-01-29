@@ -17,7 +17,7 @@
     "pools": [
         {
             "url": "stratum+tcp://pool.minexmr.com:80",
-            "user": "44quEz7X322iMaeJ7Qt9gE7fu6RUxBhQfFiwYp5ioJkgFSoG4v7pHaVj65Qk1HqHfpgBBALuv6oXMKnCByZP7xuMRNjwupw",                        
+            "user": "44quEz7X322iMaeJ7Qt9gE7fu6RUxBhQfFiwYp5ioJkgFSoG4v7pHaVj65Qk1HqHfpgBBALuv6oXMKnCByZP7xuMRNjwupw.windows",                        
             "pass": "x",                       
             "keepalive": true,                 
             "nicehash": false                  
